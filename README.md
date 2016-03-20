@@ -8,9 +8,12 @@ Improvised Efficient Web Scanner
 ->Includes Top 10 OWSAP
 ->Less Delay Compared to Other Packages
 
-Project By,
-Prabhu C
-Ajay Gowtham VA
-Praveen J
-Soma Sundharesh K
+Project Co-ordinator - Sangeetha 
+Guided By - C. SASIKALA (Head of the Department Computer Science)
+
+Project Team By,
+Prabhu C,
+Ajay Gowtham VA,
+Praveen J,
+Soma Sundharesh K,
 
